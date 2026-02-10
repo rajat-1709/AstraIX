@@ -91,21 +91,21 @@ const Contact: React.FC = () => {
                                 </div>
                             </div>
 
-                            <div className="flex items-start gap-6 group">
+                            {/* <div className="flex items-start gap-6 group">
                                 <div className="relative w-16 h-16 flex-shrink-0 transition-transform duration-300 group-hover:scale-110">
                                     <div className="absolute inset-0 bg-purple-100 rounded-2xl -rotate-3 group-hover:-rotate-6 transition-transform"></div>
                                     <div className="absolute inset-0 bg-white rounded-2xl shadow-lg flex items-center justify-center border border-gray-100 z-10">
                                         <span className="material-icons-outlined text-primary-vibrant text-3xl">location_on</span>
                                     </div>
                                 </div>
-                             //   <div>
-                                  //  <h3 className="text-lg font-bold text-gray-900 mb-1">Global Headquarters</h3>
-                                  //  <p className="text-gray-500">
-                                  //      1200 Innovation Blvd, Suite 400<br />
-                                  //      San Francisco, CA 94103
-                                  //  </p>
-                                //</div>
-                            </div>
+                                <div>
+                                    <h3 className="text-lg font-bold text-gray-900 mb-1">Global Headquarters</h3>
+                                    <p className="text-gray-500">
+                                        1200 Innovation Blvd, Suite 400<br />
+                                        San Francisco, CA 94103
+                                    </p>
+                                </div>
+                            </div> */}
                         </div>
                     </div>
 
