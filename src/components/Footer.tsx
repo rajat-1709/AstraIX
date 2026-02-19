@@ -38,9 +38,9 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                     <div>
                         <h4 className="font-bold text-gray-900 mb-8 text-xl">Social</h4>
                         <ul className="space-y-4 text-gray-500 font-bold">
-                            <li><a className="hover:text-primary-vibrant transition-colors" href="#">X / Twitter</a></li>
-                            <li><a className="hover:text-primary-vibrant transition-colors" href="#">LinkedIn</a></li>
-                            <li><a className="hover:text-primary-vibrant transition-colors" href="#">Instagram</a></li>
+                            <li><a className="hover:text-primary-vibrant transition-colors" href="https://www.facebook.com/people/Astraixin/61588362061940/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+                            <li><a className="hover:text-primary-vibrant transition-colors" href="https://www.linkedin.com/in/astraix/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                            <li><a className="hover:text-primary-vibrant transition-colors" href="https://www.instagram.com/astraix.in/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
                         </ul>
                     </div>
                 </div>
